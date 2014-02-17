@@ -6,7 +6,7 @@ package javaapplication2;
 
 /**
  *
- * @author jashlee
+ * @Author by s905060 on 2013.
  */
 import java.io.*;
 import java.util.*;
