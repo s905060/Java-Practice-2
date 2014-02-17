@@ -6,7 +6,7 @@ package javaapplication2;
 
 /**
  *
- * @Author by s905060 on 2013.
+ * @Author by s905060 in 2013.
  */
 import java.io.*;
 import java.util.*;
